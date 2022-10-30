@@ -1,0 +1,17 @@
+.plants-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.plants-container .card {
+    width: 18%;
+}
+
+.employees-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.employees-container .card {
+    width: 18%;
+}
